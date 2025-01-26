@@ -2,7 +2,6 @@
 
 This repository provides a simple installer for Buckshot Roulette that fixes game exploits to ensure fair gameplay.
 
----
 
 ## 📜 Fixes
 
