@@ -12,7 +12,6 @@ This repository provides a simple installer for Buckshot Roulette that fixes gam
 2. **Sending Too Much Info to the Client**
    - Stopped sending unnecessary data that could give players an unfair advantage.
 
----
 
 ## 🚀 How to Install
 
@@ -22,13 +21,11 @@ This repository provides a simple installer for Buckshot Roulette that fixes gam
 2. **Run the Installer**
    - Follow the steps to patch your game.
 
----
 
 ## ⚠️ Disclaimer
 
 This patch is unofficial and not affiliated with Buckshot Roulette's dev or Critical Reflex.
 
----
 
 ## 🛠️ Contribute
 
